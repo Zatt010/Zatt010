@@ -35,16 +35,3 @@ class Aramis:
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23d32f3a" width="20"/> &nbsp;GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=d32f3a&icon_color=ff4a55&text_color=e6e6e6&ring_color=d32f3a&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=d32f3a&text_color=e6e6e6&langs_count=6"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=080808&ring=D32F3A&fire=FF4A55&currStreakLabel=D32F3A&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8E&stroke=2A2A2D"/>
-</p>
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
-</p>
