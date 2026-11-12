@@ -20,7 +20,7 @@
 
 ```python
 class Aramis:
-    role      = "Software Developer · AI & Fullstack"
+    role      = "Systems Engineer · Software Developer · AI & Fullstack"
     based_in  = "Cochabamba, Bolivia 🇧🇴"
     studies   = "Universidad Católica Boliviana"
     focus     = ["Frontend", "UI/UX", "AI", "Fullstack"]
